@@ -1,9 +1,13 @@
 import subprocess
 import numpy as np
 
-params = [0.05, 
-0.10, 
-#0.15, 0.20
+params = [
+    #0.05, 
+    #0.10, 
+    #0.15, 
+    #0.20,
+    #0.25,
+    0.30
 ]
 
 def average(arr):
